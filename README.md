@@ -1,7 +1,15 @@
 # NextGen AICTE Approval Workflow & Compliance Monitoring Platform
 ### Smart India Hackathon (SIH 2025/2026) Submission
 
+[![Live Demo](https://img.shields.io/badge/Live%20Demo-aicte--sentinel.vercel.app-2ea44f?style=for-the-badge&logo=vercel)](https://aicte-sentinel.vercel.app)
+[![GitHub Repo](https://img.shields.io/badge/GitHub-Legend--1s--here%2FSentinel-181717?style=for-the-badge&logo=github)](https://github.com/Legend-1s-here/Sentinel)
+
 > **A GIGW 3.0-compliant, bilingual (English ⟷ हिन्दी) web platform modernizing the All India Council for Technical Education (AICTE) Approval Process Handbook (APH 2024–27) workflow, regional SLA monitoring, 30-year statutory land lease continuous compliance, and tamper-proof SHA-256 audit trails.**
+
+---
+
+### 🌐 Live Production URL: **[https://aicte-sentinel.vercel.app](https://aicte-sentinel.vercel.app)**
+### 📂 GitHub Repository: **[https://github.com/Legend-1s-here/Sentinel](https://github.com/Legend-1s-here/Sentinel)**
 
 ---
 
